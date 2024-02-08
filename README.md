@@ -1,4 +1,4 @@
-
+Hello, I'm Bryan and currently work at an accounting firm supporting CPAs effeciently conduct audits, generate reports, clean data, and upload required financial information to regulatory agencies using VBA and python. 
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
