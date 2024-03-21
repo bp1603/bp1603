@@ -1,4 +1,4 @@
-Hello, I'm Bryan and currently work in accounting. I help effeciently conduct audits, generate reports, clean data, and upload required financial information to regulatory agencies. 
+Hello, I'm Bryan and currently work in accounting. I help effeciently conduct audits, generate reports, manage data, and upload required financial information to regulatory agencies.
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
